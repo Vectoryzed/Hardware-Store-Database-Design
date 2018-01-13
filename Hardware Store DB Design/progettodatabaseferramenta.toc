@@ -1,0 +1,13 @@
+\select@language {italian}
+\contentsline {section}{\numberline {1}La progettazione concettuale}{2}
+\contentsline {subsection}{\numberline {1.1}Analisi delle entit\IeC {\`a} e interconnessioni fra loro}{2}
+\contentsline {subsection}{\numberline {1.2}Il modello E/R Avanzato}{4}
+\contentsline {subsection}{\numberline {1.3}Il modello E/R finale}{6}
+\contentsline {section}{\numberline {2}La progettazione logica}{9}
+\contentsline {subsection}{\numberline {2.1}La trasformazione dal modello concettuale a quello relazionale}{9}
+\contentsline {section}{\numberline {3}La progettazione fisica}{10}
+\contentsline {subsection}{\numberline {3.1}Creazione dei ruoli}{10}
+\contentsline {subsection}{\numberline {3.2}I create table}{12}
+\contentsline {subsection}{\numberline {3.3}Popolamento della base di dati}{15}
+\contentsline {subsection}{\numberline {3.4}Le query sul database}{17}
+\contentsline {subsection}{\numberline {3.5}I Trigger}{20}
